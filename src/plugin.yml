@@ -1,0 +1,5 @@
+name: NoNetherRoofPortals
+version: 1.0
+author: Chad
+main: com.github.nonetherroofportals.NoNetherRoofPortals
+api-version: 1.16
